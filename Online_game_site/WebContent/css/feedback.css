@@ -1,0 +1,132 @@
+/* Page top section */
+
+
+.page-top-section {
+	height: 355px;
+	padding-top: 210px;
+}
+
+.page-info {
+	max-width: 1496px;
+	margin: 0 auto;
+	font-size: 16px;
+	color: #fff;
+	padding-left: 60px;
+}
+
+.page-info h2 {
+	color: #fff;
+	font-size: 48px;
+}
+.site-breadcrumb a,
+.site-breadcrumb span {
+	font-style: italic;
+	color: #fff;
+	margin: 0 10px;
+	font-weight: 700;
+}
+
+.site-breadcrumb a:first-child {
+	margin-left: 0;
+}
+
+.site-breadcrumb span {
+	color: #c313b7;
+}
+.set-bg {
+
+	background-repeat: no-repeat;
+    background-image: url(../Images/1302053P194620-244S.jpg);
+	background-size: cover;
+	background-position: top center;
+
+    
+}
+
+
+/* Header and Navibar */
+
+
+
+
+.header-section {
+    
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 99;
+	padding: 15px 15px 0;
+         
+}
+
+.header-warp {
+	max-width: 1496px;
+	margin: 0 auto;
+    
+}
+
+.navbar{
+	background: #081624;
+	padding: 39px 40px 0;
+	-webkit-box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24);
+	box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24);
+}
+
+/* feedback */
+body{
+     margin:0;
+	 padding:0;
+	 font-family:sans-serif;
+	 
+}
+
+.feedback-form {
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(../images/pic3.jpg);
+}
+
+form {
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+
+.form-control
+{
+	width:600px;
+	background:transparent;
+	border:none;
+	outline:none;
+	border-bottom:1px solid white;
+	color:#fff;
+	font-size:18px;
+	margin:10px auto;
+}
+
+input
+{
+	height:45px;
+}
+
+form .submit
+{
+	background:#ff5722;
+	border-color:transparent;
+	color:black;
+	font-size:29px;
+	font-weight:bold;
+	letter-spacing:2px;
+	height:50px;
+	margin-top:50px;
+}
+
+form .submit:hover
+{
+	background-color:#f44336;
+	cursor:pointer;
+}
+
+
+
+
+
+

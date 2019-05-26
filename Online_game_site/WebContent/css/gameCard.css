@@ -1,0 +1,9 @@
+.column {
+  float: left;
+  width: 25%;
+  padding: 15px 15px;
+}
+
+.game-card {
+    margin: 5px;
+}
